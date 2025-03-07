@@ -31,7 +31,7 @@ Luckfox has required libs.
 | Pin           | Which     |
 | ------------- | --------- |
 | RES           | 20th Pin  |
-| DC\_PIN ( | 19th Pin  |
+| DC\_PIN       | 19th Pin  |
 | CS\_PIN       | CS        |
 | BL\_PIN       | 1.3V      |
 | DIN           | MISO      |
